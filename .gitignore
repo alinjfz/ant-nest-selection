@@ -29,5 +29,4 @@ env/
 
 # Generated output
 *.png
-*.pdf
 results/
